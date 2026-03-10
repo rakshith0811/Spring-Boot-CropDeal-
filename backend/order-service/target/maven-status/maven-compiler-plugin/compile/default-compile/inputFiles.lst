@@ -1,0 +1,16 @@
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/services/OrderService.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/clients/EmailServiceClient.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/resources/FarmerRepository.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/models/Orders.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/resources/CropRepository.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/OrderServiceApplication.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/resources/DealerRepository.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/models/Crop.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/models/User.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/models/Farmer.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/dto/OrderRequest.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/aspect/LoggingAspect.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/resources/orderController.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/dto/OrderResponseDTO.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/resources/OrdersRepository.java
+/Users/rakshithsyashu/Downloads/backendforCropDeal/order-service/src/main/java/com/cropdeal/orders/models/Dealer.java
